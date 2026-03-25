@@ -1,0 +1,7 @@
+src/pages/auth/Login.tsx(2,10): error TS6133: 'BookOpen' is declared but its value is never read.
+src/pages/Dashboard.tsx(1,93): error TS6133: 'Video' is declared but its value is never read.
+src/pages/Dashboard.tsx(79,52): error TS6133: 'index' is declared but its value is never read.
+src/pages/Settings.tsx(1,50): error TS6133: 'Mail' is declared but its value is never read.
+src/pages/Settings.tsx(1,56): error TS6133: 'Shield' is declared but its value is never read.
+src/pages/SubjectDetail.tsx(2,131): error TS6133: 'MoreVertical' is declared but its value is never read.
+src/pages/Subjects.tsx(2,58): error TS6133: 'MoreVertical' is declared but its value is never read.
