@@ -27,13 +27,6 @@ const fadeUp = {
     viewport: { once: true },
 };
 
-const stagger = {
-    initial: { opacity: 0 },
-    whileInView: { opacity: 1 },
-    viewport: { once: true },
-    transition: { staggerChildren: 0.15 },
-};
-
 const About = () => {
     return (
         <div className="min-h-screen bg-background text-text-primary font-sans overflow-x-hidden">
